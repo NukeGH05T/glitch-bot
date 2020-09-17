@@ -16,6 +16,10 @@ process.on('message', function(content) {
 	Files.initBotTest(content);
 });
 
+<<<<<<< HEAD
 }
 
 
+=======
+}
+>>>>>>> mybranch
