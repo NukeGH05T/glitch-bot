@@ -17,7 +17,3 @@ process.on('message', function(content) {
 });
 
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> mybranch
